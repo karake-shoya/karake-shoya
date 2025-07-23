@@ -1,9 +1,4 @@
 <div align="center">
-  
-# 👋 Hello, I'm [Shoya]!
-
-<br>
-
 ## 📊 GitHub Stats
 
 <div align="center">
